@@ -1,3 +1,3 @@
 # Personal-Finance
 
-simple income/expense manager with enhanced UI design
+simple income/expense tracker with enhanced UI design
